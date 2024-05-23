@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-Hello, I'm Isaac a System engineering student. 
+I'm Isaac a System engineering student. 
