@@ -15,7 +15,7 @@ I am a student in the [Department of Computer Science and Electronics](https://w
 
 **Experienced:**
 
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 
 **Learning:**
 
